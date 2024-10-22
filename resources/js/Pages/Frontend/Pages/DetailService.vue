@@ -1,6 +1,6 @@
 <template>
 <Link :href="route('contact')">
-    <img
+    <!-- <img
         :src="'/img/Chat-bot.svg'"
         alt="chat-bot"
         style="
@@ -10,7 +10,7 @@
             z-index: 1;
             cursor: pointer;
         "
-    />
+    /> -->
     </Link>
 
     <div

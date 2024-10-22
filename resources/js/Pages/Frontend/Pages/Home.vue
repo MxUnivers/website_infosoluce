@@ -1,10 +1,10 @@
 <template>
     <Link :href="route('contact')">
-        <img
+        <!-- <img
             :src="'/assets/img/Chat-bot.svg'"
             alt="chat-bot"
             class="chat-bot"
-        />
+        /> -->
     </Link>
 
     <div id="overlay"></div>
